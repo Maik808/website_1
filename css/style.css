@@ -1,0 +1,21 @@
+
+body{
+	background-color: #ff0;
+	background-image: url(../foto/oboi.jpg);
+	background-position: right top; 
+}
+ul{
+	color: red;
+}
+li {
+
+	font-style: italic;
+	font-variant: small-caps;
+	font-weight: bold; 
+	font-size: 20px; 
+}
+h1{
+	font-family: Verdana;
+	background: #ccc;
+		
+}
